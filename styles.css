@@ -46,6 +46,13 @@ section {
     margin-bottom: 2em;
 }
 
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0.5em 0;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
